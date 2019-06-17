@@ -1,7 +1,7 @@
 # Swag-Labs
 Automation testing for the sauce labs demo at https://www.saucedemo.com/ using Katalon Studio
 
-Test Case Manual : TestCase.xsx
+Test Case Manual : TestCase.xlsx
 
 Bug found :
 1.	System can checkout without any items selected
